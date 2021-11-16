@@ -1,0 +1,14 @@
+E:\repos\.NET Core\IterationStatementsExercise1\IterationStatementsExercise1\bin\Debug\netcoreapp3.1\IterationStatementsExercise1.exe
+E:\repos\.NET Core\IterationStatementsExercise1\IterationStatementsExercise1\bin\Debug\netcoreapp3.1\IterationStatementsExercise1.deps.json
+E:\repos\.NET Core\IterationStatementsExercise1\IterationStatementsExercise1\bin\Debug\netcoreapp3.1\IterationStatementsExercise1.runtimeconfig.json
+E:\repos\.NET Core\IterationStatementsExercise1\IterationStatementsExercise1\bin\Debug\netcoreapp3.1\IterationStatementsExercise1.runtimeconfig.dev.json
+E:\repos\.NET Core\IterationStatementsExercise1\IterationStatementsExercise1\bin\Debug\netcoreapp3.1\IterationStatementsExercise1.dll
+E:\repos\.NET Core\IterationStatementsExercise1\IterationStatementsExercise1\bin\Debug\netcoreapp3.1\IterationStatementsExercise1.pdb
+E:\repos\.NET Core\IterationStatementsExercise1\IterationStatementsExercise1\obj\Debug\netcoreapp3.1\IterationStatementsExercise1.csproj.AssemblyReference.cache
+E:\repos\.NET Core\IterationStatementsExercise1\IterationStatementsExercise1\obj\Debug\netcoreapp3.1\IterationStatementsExercise1.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\.NET Core\IterationStatementsExercise1\IterationStatementsExercise1\obj\Debug\netcoreapp3.1\IterationStatementsExercise1.AssemblyInfoInputs.cache
+E:\repos\.NET Core\IterationStatementsExercise1\IterationStatementsExercise1\obj\Debug\netcoreapp3.1\IterationStatementsExercise1.AssemblyInfo.cs
+E:\repos\.NET Core\IterationStatementsExercise1\IterationStatementsExercise1\obj\Debug\netcoreapp3.1\IterationStatementsExercise1.csproj.CoreCompileInputs.cache
+E:\repos\.NET Core\IterationStatementsExercise1\IterationStatementsExercise1\obj\Debug\netcoreapp3.1\IterationStatementsExercise1.dll
+E:\repos\.NET Core\IterationStatementsExercise1\IterationStatementsExercise1\obj\Debug\netcoreapp3.1\IterationStatementsExercise1.pdb
+E:\repos\.NET Core\IterationStatementsExercise1\IterationStatementsExercise1\obj\Debug\netcoreapp3.1\IterationStatementsExercise1.genruntimeconfig.cache
